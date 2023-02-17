@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850122074707",
+    "project_id": "testeonesignal-bf084",
+    "storage_bucket": "testeonesignal-bf084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850122074707:android:2105cc7d796da53de1b4a6",
+        "android_client_info": {
+          "package_name": "com.otake_onesignal.onesignal_teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850122074707-fqvhumbo1mbc68mb54mubjpclr8kv483.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV5xrKkefFA6pdhvFrXs5_x5pauKvCvMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850122074707-fqvhumbo1mbc68mb54mubjpclr8kv483.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
